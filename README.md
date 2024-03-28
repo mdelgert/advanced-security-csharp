@@ -1,4 +1,4 @@
-[How to try GitHub Advanced Security](https://resources.github.com/security/tools/ghas-trial/
+[How to try GitHub Advanced Security](https://resources.github.com/security/tools/ghas-trial/)
 
 # Code Scanning C# Tutorial
 
